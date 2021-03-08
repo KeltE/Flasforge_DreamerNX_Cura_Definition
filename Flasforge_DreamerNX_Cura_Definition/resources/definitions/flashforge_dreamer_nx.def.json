@@ -12,7 +12,7 @@
         "quality_definition": "flashforge_base",
         "machine_extruder_trains":
         {
-            "0": "ff_dreamernx_extruder_0"
+            "0": "flashforge_dreamernx_extruder_0"
         }
     },
 
