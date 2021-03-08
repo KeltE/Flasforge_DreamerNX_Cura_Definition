@@ -8,10 +8,6 @@
         "manufacturer": "Flashforge",
         "file_formats": "text/x-gcode",
         "first_start_actions": ["MachineSettingsAction"],
-        "machine_extruder_trains":
-        {
-            "0": "flashforge_dreamernx_extruder_0"
-        },
         "has_materials": true,
         "has_variants": true,
         "has_machine_quality": true,
