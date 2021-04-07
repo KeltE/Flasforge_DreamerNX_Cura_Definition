@@ -1,4 +1,4 @@
-Cura profile for Flashforge Dreamer NX. Version 1.0
+Cura profile for Flashforge Dreamer NX.
 Author: Egon
 
 To add a profile, copy the "resources" directory to the installed
